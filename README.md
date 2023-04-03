@@ -94,7 +94,7 @@ You are required to submit the following for review:
 
 * The URL of the deployed application.
 
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
+* The URL of the GitHub repository: https://yamiralim.github.io/Password_generator/
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
